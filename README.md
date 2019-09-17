@@ -1,2 +1,2 @@
 # tech-it
-Gaming and trading
+Gaming and trading simple propit
